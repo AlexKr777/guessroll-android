@@ -1,0 +1,14 @@
+GuessRoll third-party notices
+
+Music:
+"Party and Gameover loop" / happy_theme.ogg by gilzoide
+Licensed under Creative Commons Zero (CC0) / Public Domain
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Source:
+https://opengameart.org/content/party-and-gameover-loop
+
+Sound effects:
+feedback_tap.wav, feedback_answer.wav, feedback_pop.wav, feedback_success.wav,
+feedback_wrong.wav, and feedback_results.wav were generated procedurally for
+GuessRoll. No external sound-effects license is required.

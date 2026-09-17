@@ -1,0 +1,54 @@
+# Android and Gradle build output
+.gradle/
+.kotlin/
+build/
+**/build/
+*.apk
+*.aab
+*.apks
+*.dex
+*.hprof
+*.mapping
+
+# Local Android Studio and SDK configuration
+.idea/
+*.iml
+local.properties
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Signing material and local signing configuration
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+keystore.properties
+signing.properties
+
+# Local credentials, sessions, and environment overrides
+.env
+.env.*
+!.env.example
+*.local
+
+# Local Supabase and deployment tooling state
+supabase/.temp/
+.wrangler/
+
+# Logs, reports, and temporary captures
+*.log
+*.tmp
+*.bak
+*.swp
+outputs/
+screenshots/
+
+# Internal development notes and non-product hosting artifacts
+AGENTS.md
+PROJECT_BRIEF.md
+DECISIONS.md
+DESIGN.md
+docs/
+public/

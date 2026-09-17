@@ -1,0 +1,6 @@
+# Copy this file to local.properties and fill values from Supabase Project Settings.
+# Do not commit local.properties.
+# Android Studio may also add sdk.dir here. For CLI builds, set ANDROID_HOME
+# or add a local sdk.dir path in your private local.properties.
+SUPABASE_URL=https://your-project-ref.supabase.co
+SUPABASE_ANON_KEY=your_publishable_or_anon_key
